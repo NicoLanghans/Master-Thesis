@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Template</title>
+    <link rel="stylesheet" href="leaflet/leaflet.css" />
+    <script 
+    src="leaflet/leaflet.js"
+    >
+    </script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <style>
+        #mapDIV {
+            height: 700px;
+            width: 1000px;
+            border: solid 1px black;
+        }
+        #button {
+          height: 20px;
+          width: 50px
+        }
+    </style>
+</head>
+<body>
+  <h2>Parks of Hamburg</h2>
+  <p>Click on park entrances to get coordinates and name of the park.</p>
+  <div id='mapDIV'></div>
+  <p>By clicking the download button, a json-file with coordinates and relating park name will be downloaded.</p>
+  <div id="button"></div>
+  <button id="downloadButton">Download Parks Data</button>
+  <button id="removeMarkerButton">Remove last Entrance</button>
+<script src= "getEntrances.js"></script>
+</body>
+</html>
