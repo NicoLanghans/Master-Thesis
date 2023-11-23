@@ -61,7 +61,7 @@ function saveParksData(data) {
   // Creating download link
   var a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
-  a.download = 'parkEntry.json';
+  a.download = 'parkEntrances.json';
 
   // Add link to document, simulate click and remove link
   document.body.appendChild(a);

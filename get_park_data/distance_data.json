@@ -1,0 +1,494 @@
+{
+  "0":{
+    "name":"Alsenpark",
+    "walk_dist":"500"
+  },
+  "1":{
+    "name":"Alsterpark Klein Borstel",
+    "walk_dist":"1000"
+  },
+  "2":{
+    "name":"Alstervorland",
+    "walk_dist":"1000"
+  },
+  "3":{
+    "name":"Alter Botanischer Garten",
+    "walk_dist":"500"
+  },
+  "4":{
+    "name":"Alter Elbpark",
+    "walk_dist":"500"
+  },
+  "5":{
+    "name":"Alter Friedhof Harburg",
+    "walk_dist":"500"
+  },
+  "6":{
+    "name":"Alter Friedhof Lohbruegge",
+    "walk_dist":"500"
+  },
+  "7":{
+    "name":"Altonaer Balkon",
+    "walk_dist":"500"
+  },
+  "8":{
+    "name":"Altonaer Volkspark",
+    "walk_dist":"1500"
+  },
+  "9":{
+    "name":"Amsinckpark",
+    "walk_dist":"500"
+  },
+  "10":{
+    "name":"Appelhoffweiher",
+    "walk_dist":"500"
+  },
+  "11":{
+    "name":"August-Luetgens-Park",
+    "walk_dist":"500"
+  },
+  "12":{
+    "name":"Ballin Park",
+    "walk_dist":"500"
+  },
+  "13":{
+    "name":"Baurs Park",
+    "walk_dist":"500"
+  },
+  "14":{
+    "name":"Bergedorfer Rathauspark",
+    "walk_dist":"500"
+  },
+  "15":{
+    "name":"Bergedorfer Schlossgarten",
+    "walk_dist":"500"
+  },
+  "16":{
+    "name":"Berner Gutspark",
+    "walk_dist":"500"
+  },
+  "17":{
+    "name":"Biedermannplatz",
+    "walk_dist":"500"
+  },
+  "18":{
+    "name":"Bismarckstein",
+    "walk_dist":"500"
+  },
+  "19":{
+    "name":"Blohms Park",
+    "walk_dist":"500"
+  },
+  "20":{
+    "name":"Boeverstpark",
+    "walk_dist":"500"
+  },
+  "21":{
+    "name":"Bolivarpark",
+    "walk_dist":"500"
+  },
+  "22":{
+    "name":"Bonnepark",
+    "walk_dist":"500"
+  },
+  "23":{
+    "name":"Bornpark",
+    "walk_dist":"1000"
+  },
+  "24":{
+    "name":"Botanischer Sondergarten",
+    "walk_dist":"500"
+  },
+  "25":{
+    "name":"City-Nord-Park",
+    "walk_dist":"500"
+  },
+  "26":{
+    "name":"Donners Park",
+    "walk_dist":"500"
+  },
+  "27":{
+    "name":"Drachenthal",
+    "walk_dist":"500"
+  },
+  "28":{
+    "name":"Eichenpark",
+    "walk_dist":"500"
+  },
+  "29":{
+    "name":"Eichtalpark",
+    "walk_dist":"500"
+  },
+  "30":{
+    "name":"Eimsbuetteler Park",
+    "walk_dist":"500"
+  },
+  "31":{
+    "name":"Elbpark Entenwerder",
+    "walk_dist":"1000"
+  },
+  "32":{
+    "name":"Elbpark Falkensteiner Ufer",
+    "walk_dist":"500"
+  },
+  "33":{
+    "name":"Emil-Wendt-Park",
+    "walk_dist":"500"
+  },
+  "34":{
+    "name":"Eppendorfer Park",
+    "walk_dist":"500"
+  },
+  "35":{
+    "name":"Fischers Park",
+    "walk_dist":"500"
+  },
+  "36":{
+    "name":"Gebrueder-Cohen-Park",
+    "walk_dist":"500"
+  },
+  "37":{
+    "name":"Gorch-Fock-Park",
+    "walk_dist":"500"
+  },
+  "38":{
+    "name":"Gosslers Park",
+    "walk_dist":"500"
+  },
+  "39":{
+    "name":"Greifenbergpark",
+    "walk_dist":"500"
+  },
+  "40":{
+    "name":"Grosse Moorweide",
+    "walk_dist":"500"
+  },
+  "41":{
+    "name":"Grosse Wallanlagen",
+    "walk_dist":"1000"
+  },
+  "42":{
+    "name":"Grothpark",
+    "walk_dist":"500"
+  },
+  "43":{
+    "name":"Gruenanlage am Sandberg",
+    "walk_dist":"500"
+  },
+  "44":{
+    "name":"Gruenanlage am Willersweg",
+    "walk_dist":"500"
+  },
+  "45":{
+    "name":"Gruenes Zentrum Lohbruegge",
+    "walk_dist":"1000"
+  },
+  "46":{
+    "name":"Gruenzug Goehlbachtal",
+    "walk_dist":"500"
+  },
+  "47":{
+    "name":"Gruenzug Langenfort",
+    "walk_dist":"500"
+  },
+  "48":{
+    "name":"Gustav-Mahler-Park",
+    "walk_dist":"500"
+  },
+  "49":{
+    "name":"Hammer Park",
+    "walk_dist":"1000"
+  },
+  "50":{
+    "name":"Hans-Christian-Andersen-Park",
+    "walk_dist":"500"
+  },
+  "51":{
+    "name":"Harburger Stadtpark",
+    "walk_dist":"1000"
+  },
+  "52":{
+    "name":"Hayns Park",
+    "walk_dist":"500"
+  },
+  "53":{
+    "name":"Heidberg",
+    "walk_dist":"1000"
+  },
+  "54":{
+    "name":"Heinepark",
+    "walk_dist":"500"
+  },
+  "55":{
+    "name":"Hessepark",
+    "walk_dist":"500"
+  },
+  "56":{
+    "name":"Hirschpark",
+    "walk_dist":"1000"
+  },
+  "57":{
+    "name":"Hohenbuchenpark",
+    "walk_dist":"1000"
+  },
+  "58":{
+    "name":"Hohenhorst Gruenzug",
+    "walk_dist":"1000"
+  },
+  "59":{
+    "name":"Horner Park",
+    "walk_dist":"500"
+  },
+  "60":{
+    "name":"Horner Rennbahn",
+    "walk_dist":"500"
+  },
+  "61":{
+    "name":"Innocentiapark",
+    "walk_dist":"500"
+  },
+  "62":{
+    "name":"Jacobipark",
+    "walk_dist":"500"
+  },
+  "63":{
+    "name":"Jenfelder Moorpark",
+    "walk_dist":"1000"
+  },
+  "64":{
+    "name":"Jenischpark",
+    "walk_dist":"1000"
+  },
+  "65":{
+    "name":"Johannes-Prassek-Park",
+    "walk_dist":"500"
+  },
+  "66":{
+    "name":"Jugendpark Langenhorn",
+    "walk_dist":"1000"
+  },
+  "67":{
+    "name":"Kapitaen-Schroeder-Park",
+    "walk_dist":"500"
+  },
+  "68":{
+    "name":"Kellinghusens Park",
+    "walk_dist":"500"
+  },
+  "69":{
+    "name":"Kleine Wallanlagen",
+    "walk_dist":"500"
+  },
+  "70":{
+    "name":"Langenbeker Feld",
+    "walk_dist":"500"
+  },
+  "71":{
+    "name":"Liliencronpark",
+    "walk_dist":"500"
+  },
+  "72":{
+    "name":"Lindenpark",
+    "walk_dist":"500"
+  },
+  "73":{
+    "name":"Lise-Meitner-Park",
+    "walk_dist":"1000"
+  },
+  "74":{
+    "name":"Lohmuehlen-Gruenzug",
+    "walk_dist":"500"
+  },
+  "75":{
+    "name":"Lutherpark",
+    "walk_dist":"500"
+  },
+  "76":{
+    "name":"Luusbarg",
+    "walk_dist":"500"
+  },
+  "77":{
+    "name":"Meyers Park",
+    "walk_dist":"1000"
+  },
+  "78":{
+    "name":"Oejendorfer Park",
+    "walk_dist":"1500"
+  },
+  "79":{
+    "name":"Ohlendorffs Park",
+    "walk_dist":"500"
+  },
+  "80":{
+    "name":"Othmarschenpark",
+    "walk_dist":"500"
+  },
+  "81":{
+    "name":"Park Neulaender See",
+    "walk_dist":"1000"
+  },
+  "82":{
+    "name":"Parkanlage Grindelberg",
+    "walk_dist":"500"
+  },
+  "83":{
+    "name":"Planten un Blomen",
+    "walk_dist":"1000"
+  },
+  "84":{
+    "name":"Platz der Republik",
+    "walk_dist":"500"
+  },
+  "85":{
+    "name":"Polterberg",
+    "walk_dist":"500"
+  },
+  "86":{
+    "name":"Pulverhofpark",
+    "walk_dist":"500"
+  },
+  "87":{
+    "name":"Rathenaupark",
+    "walk_dist":"500"
+  },
+  "88":{
+    "name":"Reiherstiegknie",
+    "walk_dist":"500"
+  },
+  "89":{
+    "name":"Roenneburger Park",
+    "walk_dist":"500"
+  },
+  "90":{
+    "name":"Rosengarten",
+    "walk_dist":"500"
+  },
+  "91":{
+    "name":"Rueschpark",
+    "walk_dist":"1000"
+  },
+  "92":{
+    "name":"Saseler Park",
+    "walk_dist":"500"
+  },
+  "93":{
+    "name":"Schillerufer",
+    "walk_dist":"500"
+  },
+  "94":{
+    "name":"Schinckels Park",
+    "walk_dist":"500"
+  },
+  "95":{
+    "name":"Schleepark",
+    "walk_dist":"500"
+  },
+  "96":{
+    "name":"Schroeders Elbpark",
+    "walk_dist":"500"
+  },
+  "97":{
+    "name":"Schwanenwik",
+    "walk_dist":"500"
+  },
+  "98":{
+    "name":"Schwarzenberg",
+    "walk_dist":"1000"
+  },
+  "99":{
+    "name":"Sola-Bona-Park",
+    "walk_dist":"500"
+  },
+  "100":{
+    "name":"Stadtpark",
+    "walk_dist":"1500"
+  },
+  "101":{
+    "name":"Sternschanzenpark",
+    "walk_dist":"500"
+  },
+  "102":{
+    "name":"Suhrwisch",
+    "walk_dist":"1000"
+  },
+  "103":{
+    "name":"Sven-Simon-Park",
+    "walk_dist":"500"
+  },
+  "104":{
+    "name":"Teetzpark",
+    "walk_dist":"1000"
+  },
+  "105":{
+    "name":"Thoerls Park",
+    "walk_dist":"500"
+  },
+  "106":{
+    "name":"Trauns Park",
+    "walk_dist":"500"
+  },
+  "107":{
+    "name":"Unnapark",
+    "walk_dist":"500"
+  },
+  "108":{
+    "name":"Von-Eicken-Park",
+    "walk_dist":"500"
+  },
+  "109":{
+    "name":"Vossberg",
+    "walk_dist":"500"
+  },
+  "110":{
+    "name":"Wacholder Park",
+    "walk_dist":"500"
+  },
+  "111":{
+    "name":"Waldpark Falkenstein",
+    "walk_dist":"1000"
+  },
+  "112":{
+    "name":"Waldpark Marienhoehe",
+    "walk_dist":"1500"
+  },
+  "113":{
+    "name":"Walter-Moeller-Park",
+    "walk_dist":"500"
+  },
+  "114":{
+    "name":"Wandsbeker Gehoelz",
+    "walk_dist":"1000"
+  },
+  "115":{
+    "name":"Wandsbeker Muehlenteichpark",
+    "walk_dist":"500"
+  },
+  "116":{
+    "name":"Wasserpark Dove-Elbe",
+    "walk_dist":"1000"
+  },
+  "117":{
+    "name":"Wehbers Park",
+    "walk_dist":"500"
+  },
+  "118":{
+    "name":"Wesselhoeftpark",
+    "walk_dist":"500"
+  },
+  "119":{
+    "name":"Westerpark",
+    "walk_dist":"1000"
+  },
+  "120":{
+    "name":"Wilhelmsburger Inselpark",
+    "walk_dist":"1000"
+  },
+  "121":{
+    "name":"Wohlers Park",
+    "walk_dist":"500"
+  },
+  "122":{
+    "name":"oejendorfer Park",
+    "walk_dist":"500"
+  }
+}
