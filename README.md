@@ -26,7 +26,7 @@ Steps of processing includes
 Includes API Request for isodistance polygons and isodistance processing
 API Request includes
 - 118 requests for centroid coordinates
-- > 1300 requests for entrance coordinates
+- more than 1300 requests for entrance coordinates
 
 Isodistance processing includes
 - merge and group isodistances of entrances by park (-> catchment area)
